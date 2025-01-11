@@ -1,1 +1,1 @@
-# swiggy-app
+# namaste-react
